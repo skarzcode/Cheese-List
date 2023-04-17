@@ -1,0 +1,5 @@
+1 - Cheddar
+2 - Mozzarella
+3 - Roquefort
+4 - Compete
+5 - Fontina
